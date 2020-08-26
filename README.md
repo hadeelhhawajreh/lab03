@@ -18,3 +18,5 @@ After graduation, I joined a software development course with LTUC that really d
 [HTML, CSS, and JavaScript](https://hadeelhhawajreh.github.io/lab6_js/)
 
 [DYNAMIC WEB PAGE USING JS ](https://hadeelhhawajreh.github.io/flower/flo.html)
+
+[JS SUMMRIZATION ](https://hadeelhhawajreh.github.io/Read-notes/read-lab07)
