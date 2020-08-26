@@ -8,15 +8,13 @@ After graduation, I joined a software development course with LTUC that really d
 [My GitHub page](https://hadeelhhawajreh@github.com/)
 
 * My Repo in GitHub ->
+|[MarkDown](https://hadeelhhawajreh.github.io/read01-markdown/markdown%20summ.md) | MarkDown Summarization
+| [NOETS-MINDSET](https://hadeelhhawajreh.github.io/Read-notes/)                  | MINDSET 
+|[HTML, CSS, and JavaScript](https://hadeelhhawajreh.github.io/lab6_js/)          | HTML,CSS,JAVASCRIPT 
+|[DYNAMIC WEB PAGE USING JS ](https://hadeelhhawajreh.github.io/flower/flo.html)  | DYNAMIC WEB PAGE USING java sript
+|[JS SUMMRIZATION ](https://hadeelhhawajreh.github.io/Read-notes/read-lab07)      | JavaScript SUMMRIZATION
 
-[MarkDown](https://hadeelhhawajreh.github.io/read01-markdown/markdown%20summ.md)
-[Notes-css-design]()
 
 
-[NOETS-MINDSET](https://hadeelhhawajreh.github.io/Read-notes/)
 
-[HTML, CSS, and JavaScript](https://hadeelhhawajreh.github.io/lab6_js/)
 
-[DYNAMIC WEB PAGE USING JS ](https://hadeelhhawajreh.github.io/flower/flo.html)
-
-[JS SUMMRIZATION ](https://hadeelhhawajreh.github.io/Read-notes/read-lab07)
